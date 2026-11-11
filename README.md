@@ -1,6 +1,6 @@
 # HTML ve CSS
 
-Bu depo, HTML ve CSS öğrenme sürecindeki konu örneklerini ve arayüz çalışmalarını içerir.
+Bu depo, HTML ve CSS öğrenme sürecindeki konu örneklerini ve arayüz çalışmalarını içerir. ve düzen aşağıdaki gibidir.
 
 ## Kategoriler
 
